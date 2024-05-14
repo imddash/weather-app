@@ -52,4 +52,34 @@ body{
 .search button img{
     width: 18px;
 }
- 
+
+.weather-icon{
+    width: 170px;
+    margin-top: 30px;
+}
+.weather h1{
+    font-size: 80px;
+    font-weight: 500;
+}
+.weather h2{
+    font-size: 45px;
+    font-weight: 400;
+    /* margin-top: -10px; */
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0 20px;
+    padding: 0 19px;
+}
+.col{
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    text-align: left;
+}
+.col img{
+    width: 40px;
+    margin-right: 10px;
+}
