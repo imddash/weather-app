@@ -84,12 +84,12 @@ body{
     margin-right: 10px;
 }
 .feels{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-.feels p{
-    margin-right: 10px;
     font-size: 19px;
+}
+
+
+.humidity, .wind{
+    font-size: 28px;                
+    margin-top: -6px;
 }
 
