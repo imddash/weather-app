@@ -95,4 +95,14 @@ body{
     font-size: 28px;                
     margin-top: -6px;
 }
+.weather{
+    display: none;
+}
 
+.error{
+    font-size: 20px;
+    margin-left: 20px;
+    text-align: left;
+    margin-top: 10px;
+    display: none;
+}
